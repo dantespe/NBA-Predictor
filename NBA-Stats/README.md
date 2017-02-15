@@ -1,4 +1,6 @@
 # NBA Stats REST API
+[Git Repo](https://github.com/dantespe/NBA-Stats)
+
 This project is designed to be a python wrapper  the [nba.com](stats.nba.com)'s Stats REST API. Currently this only has a wrapper to write (.csv) and return (json) data from the leaguedashplayerstats endpoint. I will continue to support the repo by adding functionality for more endpoints.
 
 
